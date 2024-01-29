@@ -46,6 +46,7 @@ body{
     cursor: pointer;
     float: inline-start;
     background: white;
+    color: black;
 }
 
 .reset{
