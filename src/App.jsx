@@ -58,9 +58,7 @@ const Square = ({value, onSquareClick}) => {
 
 const PlayAgain = ({onResetClick}) => {
   return (
-    <button className='play-again' onClick={onResetClick}>
-      Play Again
-    </button>
+    <button className='play-again' onClick={onResetClick}>Play Again</button>
   )
 }
 
